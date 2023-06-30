@@ -1,5 +1,5 @@
 [package]
-name = "monkeytype"
+name = "monkeytype-cli"
 version = "2023.6.30"
 edition = "2021"
 
